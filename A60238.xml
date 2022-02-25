@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O England; thy time is come, God hath not taken thee until thou be ful; yea, the fulness of thy time is come  ...</title>
+            <author>Simmonds, Martha.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656-1665?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60238</idno>
+            <idno type="STC">Wing S3793</idno>
+            <idno type="STC">ESTC R222389</idno>
+            <idno type="EEBO-CITATION">99833567</idno>
+            <idno type="PROQUEST">99833567</idno>
+            <idno type="VID">38044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2217:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>O England; thy time is come, God hath not taken thee until thou be ful; yea, the fulness of thy time is come  ...</title>
+                  <author>Simmonds, Martha.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656-65]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first lines of text.</note>
+                  <note>Attributed by Wing and Smith to Martha Simmonds; Smith gives "[Part by James Nayler, Hannah Stranger, and W.T.]".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Haverford College Library, Pennsylvania.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Redemption --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="collection">
+            <div type="introduction">
+               <pb n="1" facs="tcp:38044:1" rendition="simple:additions"/>
+               <p>O England; thy time is come, God hath not taken thee until thou be ful; yea, the fulneſs of thy time is come; with ſpeed prepare to meet the Lord in Judgment, leſt thou be cut off; wo unto thee if he turn from thee before thou be refined. Remember, was not the Jewes cut off that thou might be grafted in? Remember and take heed.</p>
+               <closer>
+                  <signed>J.N.</signed>
+               </closer>
+            </div>
+            <div type="epigraph">
+               <q>Ye men of Galilee, why stand yee gazing up into heaven? This ſame Jeſus which is taken up from you into heaven, ſhall ſo come in like manner as ye have ſeen him go into heaven, <bibl>Acts <hi>1.11.</hi>
+                  </bibl>
+               </q>
+               <l>The glorious Reign of Chriſt is come;</l>
+               <l>Ho! every one behold the Sonne:</l>
+               <l>This is the beautiful Morning-Star,</l>
+               <l>Who ſends his Meſſengers through the air</l>
+               <l>And calls up all to Judgement; O haſt and come away</l>
+               <l>You Virgins that are ready! this is the Marriage-Day.</l>
+            </div>
+            <div type="letter">
+               <p>YOu fooliſh Virgins, how have you been ſleeping away your precious time? had it not been better you had watcht and prayed? O fooliſh, fooliſh Children, will you ſell your birthright for a moments pleaſure, and a little eaſe? But what more can be ſaid to you; I ſee the Spirit is grieved with you, and the Spirit is weary with ſtriving with you: O that I could weep tears of blood for the ſlackneſs of the deſires of the people concerning their eternal ſalvati<g ref="char:EOLhyphen"/>on! Is your ſouls of no more value then to make a ſport of time? O England! thou haſt not wanted for Warning my ſoul ſtands witneſs in the preſence of the Lord againſt thee, that in the Cities, Towns, and Market-Streets, I have paſt with bitter cryes and ſtreams of tears, for a moſt two
+<pb n="2" facs="tcp:38044:2" rendition="simple:additions"/>yeers time, warning you of this day that is coming upon you as a Snare, with this Lamentation, O people of England repent! O that thou wouldeſt conſider the time of thy vi<g ref="char:EOLhyphen"/>ſitation! O that thou wouldeſt priſe thy time before the dore of Mercy is ſhut! Now the Light is riſen, how art thou found ſlaying the Lamb of God? in thee is found ſlain the blood of the Innocent; O England! the blood of the Inno<g ref="char:EOLhyphen"/>cent cries loud in the ears of the Lord God of Power; O that thou wouldeſt conſider and repent, and priſe thy time before thou be conſumed and made a common deluge for ever! Thou art fat and full, thou art fitted for ſlaughter, and great and terrible will thy day of calamity be; the Sword of the Lord is drawn againſt thee, and will be ſheathed in thy bowels. O repent! repent, and let the deſtruction of <hi>Sodom</hi> be a warning to thee O England! fitted for ſlaugh<g ref="char:EOLhyphen"/>ter; thou art light and vain, thou kicks againſt the Lord, thou lifts up thy heel againſt him; O England, the time is come that nothing will ſatisfie but blood; yea, yea the time is come that nothing will ſatisfie but blood: Thou art making thy ſelf drunken with the blood of the Innocent; he will be a<g ref="char:EOLhyphen"/>venged of thee; till blood come up to the Horſes bridle; thou art making thy ſelf drunken with the blood of the innocent, and now he will give thee blood to drink, for thou art worthy; for he will be avenged of thee till he is ſatisfied with thy blood: Come down ye high and lofty ones and lie in the duſt, and repent in ſackcloath, and lie lovv before the Lord and come and ſee if by any means there may be a place for repentance found.</p>
+               <p>This mournful cry began at <hi>London,</hi> ſo to <hi>Colchester,</hi> and through the Nation: Ah Lord! what ſhall I yet ſay for them? or how ſhall I enter into a Treaty for them? Behold, they have ſlighted thy tenders of Grace, and they wipe their mouths, and take their fills of mirth; and they wipe their mouths, and cry, <hi>Tuſh, the Lord is gone far off;</hi> they cry, <hi>Miracles are ceaſt, and there is no Revelation; tuſh the Lord ſeeth not:</hi> When thy ſervants have ſhewed them thy minde, they have ſaid, <hi>Let him do his worſt.</hi> O Lord ariſe in thy zeal, and ſhew thy power, for they blaſpheme thy Name conti<g ref="char:EOLhyphen"/>nually;
+<pb n="3" facs="tcp:38044:2"/>how have they ſlighted thy love, now thou haſt viſited the earth with thy pure voice? how cruelly have they beaten thy Prophets, and now thy Son is come they conſpire to kill him?</p>
+               <p>O Generation of unbelievers! now is not the Scripture fulfilled that ſaith, <hi>When the Son of man come ſhall he finde faith upon the earth?</hi> Is it not ſeen that you love the world too well? you look for the reign of Chriſt, I know you do, for there is that in your conſciences which ſheweth you that your ſoul is in death, and waits for redemption; but how have you ſlighted the Meſſenger of reconciliation, that hath told you in ſecret that you ſhould come away and leave your vanities; it had been well if you had minded the check and re<g ref="char:EOLhyphen"/>proof, if you had done ſo, your hearts had been purified, then now you had been ready to meet him; when he fulfil<g ref="char:EOLhyphen"/>led all Righteouſneſs, and aſcended unto his Father, he gave down his ſpirit among you, which hath viſited your Fathers and you unto this day, which was to miniſter unto you, un<g ref="char:EOLhyphen"/>till his ſecond coming: But how hath your ears been ſtopt againſt it, did it he ever appear in ſuch an age before? But now the Heavens is loaded with a Bleſſing, and there is not room in the earth to receive it, make room, make room, en<g ref="char:EOLhyphen"/>large your hearts, for it is there that he will reign I ſee; and as your hearts is enlarged, you will come down as <hi>Zicheus</hi> did; for he is made a little lower then the Angels, that ſo he may raiſe up the innocent Seed, which lies ſcattered in your dark hearts: As far as you are obedient to the ſpirit that preaches to your ſouls in priſon, ſo far you make room for his reigne, ſo far you become Members of the body; for now he hath prepared you a Leader and a Captain; doth not your eyes ſee the Lord hath prepared him a body fitted for ſuffer<g ref="char:EOLhyphen"/>ings in patience, which he hath crown'd with love and meek<g ref="char:EOLhyphen"/>neſs; ſo that the more you torture him, the more he loves, yet you cannot ſee; but to you that live in hope my heart is enlarged, yet to ſee the redemption of <hi>Zion,</hi> and to enjoy the glorious Reign of Chriſt; the Lord give you the deſire of your ſouls, for now is your time to receive: Wherefore I beſeech you ſit you under your own vine, feed in peace, go
+<pb n="4" facs="tcp:38044:3"/>not forth after them that crye, Lo here, and Lo there, for they are falſe Watch-men, they will ſmite you, and bereave you of your freſh ſprings which you ſhould enjoy in the ſpi<g ref="char:EOLhyphen"/>rit; but watch low and ſtill in your mindes, and with that which is juſt, judge that which is unjuſt; and when your wills would have Liberty, let it be croſt with the Light; then you will ſee that in your obedience you will have peace, and the peace that your obedience will bring, will ſo knit your hearts to the Lord, that nothing will be too hard for you; then comes your hearts to be opened to receive the Bleſſing, and your mindes ſtedfaſt in Communion with the Lord; He will viſit you with his freſh ſprings, and cauſe the ſeed to grow; and as it grows up to God, it brings the Son down to you, who is given into the world to redeem your ſouls from the power of ſin and death; and ſo as he purifies you with judge<g ref="char:EOLhyphen"/>ment, ſo your Temples will be fitted for Chriſt to rule and reign in you, and then comes his will to be done in the earth as it is in Heaven; and as your hearts, mindes and affections incline to the Lord, you will ſee faith encreaſe; and by pati<g ref="char:EOLhyphen"/>ent waiting in hope, you will ſee the Hills levelled, and the mountains laid low of ſin and corruption; and when the Lord hath pluckt your feet out of the Snare, and ſet you up<g ref="char:EOLhyphen"/>on a plain, then will you run the way of his commandments with great delight; and this is the State of Virginity.</p>
+               <p>Oh you noble hearts! it is you that are fit to entertaine Chriſt in his reign, for in your obedience the precious ſprings of Life doth open in you, and pure conſolation you feele, Songs of Joy and Triumph, and the Father, Son and Spirit meets in you; then hath the ſoul Liberty from the devour<g ref="char:EOLhyphen"/>ing Enemy; as the pure Spirit gets Victory over the evil Spi<g ref="char:EOLhyphen"/>rit, ſo the Spirit of Chriſt comes to reign in your mortal bo<g ref="char:EOLhyphen"/>dies, then comes the ſhowers of Grace as the morning-due, which bathes your ſouls in the blood of the Lamb, and wa<g ref="char:EOLhyphen"/>ters the tender Plant in you. This is a wiſe Virgin that is ready to meet the Bridegroom in this his day; I counſel you that have oyle to trim your Lamps; and prepare to meet the Lamb, for now it is full time, for he that was to come, is come, and his time is ſhort, and then no more time; make
+<pb n="5" facs="tcp:38044:3"/>haſte away you Virgins of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aie, for time is ſhort; for now is the time of ſealing come, he that is filthie, let him be filthie ſtill; and he that is holie muſt be received into the bo<g ref="char:EOLhyphen"/>die. Now bleſſed are you that are found ready; for now we ſee there hath been terrible wars betwixt <hi>Michael</hi> and the Dragon to make room for the Babe; not one ſtep but tho<g ref="char:EOLhyphen"/>row blood that we can get for entertainment amongſt you; but now I ſee the foundation is firmly &amp; deeply laid through ſufferings; and now ſet your Battel never ſo ſtrong, it will grow more firm; but bleſſed be the peace-makers, for they are fit to have the Manſion in my Fathers Kingdom. Why ſhould it ſeem a ſtrange thing to you to ſee Chriſt reigne in his Saints and fit and prepare the Veſſels, and make our bo<g ref="char:EOLhyphen"/>dies fit for himſelf to dwell in, ſeeing our hearts are ready to bow to his Will? And is it not more for his glory, though it be a greater croſs to your wills, to purifie theſe bodies, and pour out the dregs thereof, then to bring down that body which was crucified at Jeruſalem, ſeeing all are in his power and one Spirit rules in both; by much tribulation, anguiſh of Spirit, and ſvfferings of the fleſh, hath he now fitted a bodie for himſelf, who hath conquered death and hell; ſo perfect is he that he can laydown his life for his enemies, not opening his mouth to defend himſelf; this Veſſel is as precious to me as that which was tortured at Jeruſalem, ſeeing the Father hath prepared them both, and the ſame Graces ſprings from both according to its time of working, which now is finiſht in ſufferings. Shall I not follow thee unto death, O my beloved? yea, ſeeing thou art revealed in me by my Father to be the Son of Peace.</p>
+               <p>Now what though he was brought up with you? deſpiſe him not as your fathers did; but the Scriptures muſt be ful<g ref="char:EOLhyphen"/>filled, <hi>A Prophet is not without honor but in his own Country;</hi> ſurely if you knew the bowels of love that flows to you; you would be more meek; what ſhall we do to declare our love? the Lord knows we love all men, from the Magiſtrate to the meaneſt, and delight to live in love and peace with all men; and if any do lord it over you, and judge you in their Wills, they muſt be judged. Now I beſeech you, is not this the man<g ref="char:EOLhyphen"/>ner
+<pb n="6" facs="tcp:38044:4"/>of the reign of Chriſt, to purifie the bodies of his Saints to make them Temples for himſelf, and quicken them by his Spirit? and he that leads the way is the Captain, King, or Prophet, which in all ages the people loved and honoured; Would you were worthy to receive the ſalvation of his love and peace, which the ſhovvers of his rain hath brought; his Reign is glorious. Novv hearts are knit together in unity each to other, and Praiſes ſprings freely up to the Father of all, and here is none ſhut out who is real hearted: Whether ever vve ſee your faces outvvardly, yet I am ſure if you love the Lord, and be obedient to him, vve ſhall meet in Spirit, and that Spirit will reveal to you that Innocency muſt be King. Therefore friends all, uſe the World as if you uſed it not; for the time is very ſhort, and every one ſhall be taken vvhere is; he that is filthy, ſhall be filthy ſtill; and he that is holy, ſhall be holy ſtill; for no place of Repentance ſhall be left; and many ſhall ſay, Lord, vve have preacht in thy Name, and in thy Name vve have caſt out Devils, and done many vvonderful things; but he ſhall ſay unto them, Depart ye Workers of Iniquity, I knovv you not; and they ſhall flie into the Dens and Caves of the earth, and ſhall call to the Mountains and Rocks to fall on them, and cover them from the glory of his preſence.</p>
+               <p>Watch, Watch, the time haſteth exceedingly, vvhen time ſhall be no more, for the Gate ſhall be ſhut, and no place left for Repentance.</p>
+               <closer>
+                  <signed>Martha Simmonds.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>COnſider I beſeech you hovv clearly the Scripture is ful<g ref="char:EOLhyphen"/>filled in our dayes; are you not all talking of the Reign of Chriſt, but knovvs it not? And this is the cauſe of it, My Ways ſaith the Lord are not yours, nor my Thoughts yours; for as the Heavens are higher then the earth, ſo are my
+<pb n="7" facs="tcp:38044:4"/>waies higher then yours; &amp; none knoweth his will but thoſe that are willing to be guided by an innocent ſpirit, and that liveth out of their own thoughts; and they onlie are the Vir<g ref="char:EOLhyphen"/>gins that will be found readie to reign with Chriſt Jeſus in righteouſneſs, for they are diligent in the depth of the ſearch of their own hearts, and ſees how the Lord breaketh them into tenderneſs, and maketh them ſubject to his will; as Chriſt was to his Father, ſo are we in this evil world.</p>
+               <p>Now I would not have you ignorant of the mighty day of the Lord, and of his glorious appearing amongſt the ſons of men; but rather that you ſhould conſider how that it ſtands more for his glory to croſs all mens wills, then to fuifil them; and what if he will be pleaſed to do as the Pot<g ref="char:EOLhyphen"/>ter doth with his clay, who having made one veſſel, as ſeem<g ref="char:EOLhyphen"/>ed him good, and ſeeth that there is yet an oppertunity for him to break it, &amp; make it more for his honor then it was, ſeeing it is yet clay in his hand; and ſo is man in the hands of the Almighty. Oh my Friends! conſider how much more ſhall the Lord be glorified in purifying a Veſſel fit for him<g ref="char:EOLhyphen"/>ſelf to dwell in all righteouſneſs, meekneſs, and long-ſuffer<g ref="char:EOLhyphen"/>ing: And thus we ſee his reign, and rejoice in ſufferings as Deceivers, and yet true.</p>
+               <p>So friends conſider, that if it had pleaſed him, he could have prayed to his Father, and he would have ſent him Legi<g ref="char:EOLhyphen"/>ons of Angels; but he choſe rather to ſuffer, and thereby to croſs his own will, and alſo all mens wills, for ſurely he is the ſame now as he was in former ages, who alwaies appeared contrary to the expectacions of all the world; but if he ſhould appear in the way you have long lookt for him, then man would have ſomething to boaſt in; but now boaſting is excluded; for it hath pleaſed the Father of Spirits to appear in a ſpirit a little lower then Angels, and ſo is hid in the Clouds from all mens eyes, of corrupt hearts, and ſelf-con<g ref="char:EOLhyphen"/>ceited ones, who thought they had an eye to have pierc't through the Clouds, are now found the blindeſt of all ſorts; for as he ſuffered at his going away, ſo doth he at his com<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:38044:5"/>again, for ſo ſaith the Scripture, <hi>he ſhall come in like man<g ref="char:EOLhyphen"/>ner as he went.</hi>
+               </p>
+               <closer>
+                  <signed>Hannah Stranger.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>There's none can reigne with Chriſt but he</l>
+               <l>That is a Virgin pure in innocency.</l>
+               <l>No evil thoughts nor words muſt be,</l>
+               <l>For that will ſtain Virginity.</l>
+            </div>
+            <div type="letter">
+               <p>O How excellent is thy waies thou God of Mercy and Truth! ſurely they that go out of thy pathes are not worthy to walk therein; they that forget thy love, have not found the ſweetneſs of it; why ſhould it be that any that have known thy Word ſhould caſt it behinde their backs. But let my ſoul cleave to thy Statutes, &amp; let obedience be my life con<g ref="char:EOLhyphen"/>tinuallie; ſo ſhall I be acquainted with thy will, O Lord, thou knoweſt I love thy counſel, and in it my heart pondereth; and if thou wilt open thy boſom, and let me come neerer to thee, that is all I deſire; but let me remember thy former mercies, for they are life; how haſt thou led me through the Deſarts, and refreſhed me with thy Chriſtal Streams, &amp; gave me Manna for food? How gentlie didſt thou guide me when all comforts failed me, and removed the mountains out of my way, and hath ſet me upon a plane, that I run the way of thy Commandments with great delight? Why hath thy Rod been ſo light upon me, ſeeing my ſins have been multi<g ref="char:EOLhyphen"/>plied? How have I ſcaped the Rod of thine anger? nay, thou didſt put a Rod into my hand, to ſmite the backſlider and hard-hearted: O Lord, thou knoweſt it was thy will, I did not reſiſt thee; Oh that they might know it, the rod, and who it was that did appoint it! and now thou haſt taken it out of my hand, and bowed me to thy will, and hath open<g ref="char:EOLhyphen"/>ed a door of Mercie to all ſorts of people; Oh let thy Mer<g ref="char:EOLhyphen"/>cie ſhower down abundantlie, and fill the earth with thy Bleſſing that thy Works may praiſe thee, for now praiſes
+<pb n="9" facs="tcp:38044:5"/>readie for thee, and many hearts panteth after thee, that have long lain amongſt the pots; all the upright love thee, for they have been as a chaſed Roe upon the Mountains, which have wanted a Shepherd; wherefore ariſe O Lord, and viſit the Nations with thy appearance, that they may know thy ſalvation.</p>
+               <closer>
+                  <signed>Martha Simmonds.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>OH my beloved! Where haſt thou been hidden? in the clefts of the Rocks? and I could by no means finde thee, though I have ſought thee day &amp; night with a mourn<g ref="char:EOLhyphen"/>ful and bleeding heart? but when I was ſtill and patient, then thou didſt appear to me with pure conſolation, and then we did ſup together; but then thou wouldeſt withdraw again, and then my ſoul would mourn, for I ſaw thy pre<g ref="char:EOLhyphen"/>ſence was my life and preſervation. Thou didſt command me forth into thy Work, to invite thoſe in which knew thee not, and I was obedient to thee; when I returned and gave thee an account, thou didſt accept my ſervice, though men denied it, and thou gaveſt into my boſom a double Bleſſing. Oh! how thou haſt drawn me unto thee, &amp; inclin'd my heart to thy will; how haſt thou indeared my ſoul within thy bo<g ref="char:EOLhyphen"/>ſom? Thou haſt tried me, and in thy trial thou haſt found me ſteadfaſt; it all that I deſired of thee was, and is, That thou wouldeſt wholly take me into thy Counſel: I ever lo<g ref="char:EOLhyphen"/>ved thy Reproof, and dreaded thy Anger; for I finde cor<g ref="char:EOLhyphen"/>rection is as balm to me, and I have not murmured at them. Oh pure, eternal, perfect Lord God! when I came neer to know thee, it was life for evermore, for thy preſence over<g ref="char:EOLhyphen"/>came me; but how have I been toſſed to and fro in this dark world? ſurely thou hadſt a purpoſe to make uſe of me in thy will and time; for the devil hath ſet very fore againſt me; for before ever I ſaw the Light of the Sun, or received a natural birth in this viſible World, I was rejected of men, for my
+<pb n="10" facs="tcp:38044:6"/>Patents denied me a birth; and as concerning ſelf, it had been good I had not been born; for I have not had pleaſure in this world, but have ſtood as one alone; and ſince I knew the way to thee, I have exceedingly haſted out of it; and be<g ref="char:EOLhyphen"/>fore I knew the way, I ſought for the way to all that preten<g ref="char:EOLhyphen"/>ded to direct the way; but they hadſtoln thy words, &amp; had not thy life ſo they wearied me, and profited me not; but now thou haſt revealed thy ſon in me Oh! how am I overcome with thy preſence? and now I ſhall live with thee for ever.</p>
+               <closer>
+                  <signed>M.S.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>IS it become a crime not to judge another in his Work; but to let him ſtand and fall to his own Maſter Chriſt Jeſus, who alone hath power over the conſcience? Doth not the Apoſtle <hi>Paul</hi> ſay, <hi>Wherefore dost thou judge thy Brother? Wherefore doſt thou ſet at nought thy Brother?</hi> Did not he ſay this to thoſe that judged one another? And did not he plead the cauſe of both for one againſt the other that judged, when they could neither of them bear the other; yet did not he then vindicate both in their contrary perſwaſions, and judged onely their judgings of one another? <hi>Rom.</hi> 14.</p>
+               <p>Did Chriſt judge <hi>John Baptiſt</hi> becauſe he came neither eating nor drinking? or did <hi>John</hi> judge him becauſe he came both eating and drinking? though the world judged both, ſaying of the one, <hi>He hath a Devil;</hi> of the other, <hi>He is a glutton, and a win-bibber, a friend of Publicans and Sin<g ref="char:EOLhyphen"/>ners.</hi>
+               </p>
+               <p>Did <hi>Barnabas</hi> judge <hi>Boanerges</hi> becauſe he was a Son of Thunder? or <hi>Boanerges</hi> judg <hi>Barnabas,</hi> becauſe he was a Son of Conſolation.</p>
+               <p>It is ſaid, <hi>Cant.</hi> 4. laſt. <hi>Awake, O North-winde; and come thou South and blow upon my Garden, that the Spices thereof may flow out. Let my Beloved come into his Garden and eat his
+<pb n="11" facs="tcp:38044:6" rendition="simple:additions"/>pleaſant fruits.</hi> Let him that readeth underſtand. And let not the South-winde ſay to the North-winde, There hath been no need of thee. Neither let the North-winde with<g ref="char:EOLhyphen"/>ſtand the South-winde, and ſay, There is no need of thee. Or let not the Garden ſay to the Windes, There is no need of you or either of you, for both are needful for cauſing the Spices to flow out, that the Beloved may enter into his Garden to eat his pleaſant fruits. Let him that readeth un<g ref="char:EOLhyphen"/>derſtand what the windes are.</p>
+               <closer>
+                  <signed>W.T.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>THis is a day of ſhaking and ſtaggering to them whoſe mindes are without, buſying themſelves to comprehend the meaſures of others. The only way to be at reſt &amp; quiet, is to mind our own meaſure, committed to us, and to be faithful therein; to keep pace with our own guide, who leads the Lambs as they are able to bear: Let the weak not judge that which they com<g ref="char:EOLhyphen"/>prehend not; and let the ſtrong not deſpiſe the weak being found faithful in their meaſure; and ſo unity is preſerved in the body, from the youngeſt babe to the higheſt grown; and there's bredth enough in our Fathers Kingdom for both. And this preſerved unity between <hi>Paul</hi> and his weaklings; <hi>John</hi> and his little chil<g ref="char:EOLhyphen"/>dren, Chriſt and his babes.</p>
+               <p>The day is appearing which I have waited for, in which all that have their faces towards God in truth ſhall own one another in their ſeveral meaſures, and love ſhall be encreaſed. The chil<g ref="char:EOLhyphen"/>dren of the Kingdom ſhall feel the love of God in one another, and ſhall embrace that, and not trouble themſelves with the ſe<g ref="char:EOLhyphen"/>veral work of others, or narrowneſs or largeneſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of underſtand<g ref="char:EOLhyphen"/>ding Myſteries; but love ſhall embrace that which is of it ſelf, and ſo the Flock of God ſhall walk in peace, without puſhings, judgings, whisperings; back-bitings, cenſurings, every one grow<g ref="char:EOLhyphen"/>ing up in his own meaſure. This day is appearing, if it go not in again.</p>
+               <closer>
+                  <signed>W.T.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:38044:7"/>
+               <p>O How wonderful are thy Works, O God! the depths of thy counſels are paſt finding out: Who knoweth thy waies? and to whom doſt thou give account of thy actions, how thou doſt order the works of thy hands? Oh! how vain a thing is man when thou turneſt thy hand upon him? How often haſt thou broken me to pieces? How often haſt thou led me through deaths? How hath thy terror many a time ſeizd upon me? and thy dread made me afraid? Thou haſt bruiſed me from morning till night: Oh! who may ſtand before thee thou Judge of all men? In the days of my affliction, how have I roared from morning till night! Then did I ſeek death, but could not finde it; and thirſt to be co<g ref="char:EOLhyphen"/>vered in darkneſs, but could not obtain it. I ſaid, I will go down into forgetfulneſs; but thou would not ſuffer me: But in thy will thou raiſed me, and ſent me to the Nations. A ſigne and a wonder thou haſt made me, and a ſtranger to them who had well known me. Yea, how often haſt thou changed me, ſo that I have not been known to my ſelf? And thou haſt hid me from ſuch as have followed me: Thou haſt lifted me up, &amp; I have been exalted; thou haſt caſt me down, and I have been deſpiſed. I have been a ſcorn to fools that knows not thy wayes; and as a prey to the devourer: Then I ſaid, Thou haſt caſt me off; elſe why am I covered with blackneſs But this was my impatience, my haſte, and my folly: Thou ſmileſt upon me in the midſt thereof, and I was judged yea, I loathed my ſelf before thee. Oh how haſt thou turned me in a moment! Thou liftedſt my head out of Pri<g ref="char:EOLhyphen"/>ſon, and ſet me above ſuch as ſought to deſtroy me. Yea, how often haſt thou redeemed me from death? how often have I been beſet about? yea, the eyes of evil men have been daylie upon me to ſee my fall. Yea, many a time had I been driven from my ſteadfaſtneſs; but thy Promiſes have been my refuge: Yea, had it not been for thy Word, I had diſ<g ref="char:EOLhyphen"/>paired of hope; therefore do I love it more then gold. Oh that men knew thy faithfulneſs! Out of the pit have I cryed to thee, and thou heardeſt me, and didſt anſwer out of thy Holy Place. Then I ſaid, I will fear thee for ever, and obey
+<pb n="13" facs="tcp:38044:7"/>thee till death, becauſe thy Word hath ſtrengthned me. Thou<g ref="char:EOLhyphen"/>turned away thy face, and I became darkneſs: Then I ſaid, I am forſaken, for thou haſt found iniquity in me. Thus have I been as clay in thy hands, and durſt not ask thee an account of thy doings. Oh thou faithful one! how dreadful art thou? how powerful is thy preſence? with thy breath doſt thou change the world, and makeſt all things new: So doſt thou make man forget his travel; and turns his ſorrow into a Song. Praiſe the Lord O my ſoul, while I have a be<g ref="char:EOLhyphen"/>ing among the ſons of men.</p>
+               <closer>
+                  <signed>J.N.</signed>
+               </closer>
+            </div>
+            <div type="devotion">
+               <head>A Morning-Song when I being in Priſon at Weſtminſter.</head>
+               <p>SInce thou haſt drawn me to thee, how doth my ſoul love thee my God! Since thou haſt begotten me to thee, how doth my heart bow before thee my Father? How doth my ſoul worſhip thee? How do I delight to live with thee? It is life to abide continually in thy preſence, to receive thy commands and do them. Oh how haſt thou made me with thy hand, and formed me anew with thy free spirit! ſo that the tedious wayes of weariſomneſs is forgotter, and I love to run the way after thee, and to tread thy pathes. Surely all the time of my life is too little to ſerve thee in thy holy wayes, my Redeemer and my King. Oh! let my ſoul for ever live in thy boſom, that I may continually taste the breathings of thy pure life, which fillss my ſoul with fatneſs, &amp; my heart with pleaſure. With tears I have found thee; with joy I live with thee: Oh how am I afraid to loſe thee! O how ſtrong is love! I cannot live without thee. Bleſſed be the day in which thou called me out from my Kindred, and ſet a Hedge betwixt me and mine acquaintance, that thou might turn me to thy ſelf. Thou ſet my familiars afa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from me, that thou might bring me to thee alone, Oh my joy! Thou haſt ſet all the world againſt me, that I might ſeek thee to take my part: Then did I cry unto thee, and thou waſt near; for this was thy purpoſe concerning me, That I might know thee. In ſecret didſt thou ſupport me, leaſt my faith ſhould fail; yet not in my way, leaſt I ſhould be exalted, and ſo forget thy fear; yet would never ſuffer me to want thy goodneſs. How often haſt thou ſtript me of all, yea, my deareſt friends, who were as my life, were ſet againſt me
+<pb n="14" facs="tcp:38044:8"/>in Judgement; this was done that thou might prove me in the fire, to melt me and try me, that thou might bend me for thy ſelf alone. Then did I ſee how vain a thing is man, how ſoon is he changed into a lye. I ſaid, To thee alone I commit my cauſe: Then didſt thou draw near and juſtified me; thou healed my wound with thy anointing, thou poured in thy conſolation as oyle into my bones, which was dryed with ſorrow: Thou made me forget all my grief; thou renued my youth, and my fleſh came again as a child; my heart thou madest new within me: A clear veſſel didſt thou make me after the breaking of the old: Then didſt thou fill me with thy goodneſs; thy Word became my food, and the joy of thy ſpirit was my ſtrength: I became obedient, and thy love was ſpread in my heart. My ſoul is ſatisfied with thee, my God, and my Redeemer; Praiſe the Lord.</p>
+               <closer>
+                  <signed>J.N.</signed>
+               </closer>
+            </div>
+            <div type="devotion">
+               <head>A Song of Deliverance.</head>
+               <p>THou haſt ſeen, Oh my God, thou haſt ſeen it, when the wicked one laid a Snare for my feet in the day of my trouble, when he ſpread his Net to take me unawares: In the dark he ſpread it, he covered it, he ſaid in his heart, He ſhall not know thereof till I have caught him within my compaſs, he ſhall not perceive it; ſo was I as a bird, innocent, not knowing that it was for my life: Then didſt thou ſhew me it, Oh thou preſerver of the helpleſs; thou ſaid, Hearken unto me, ſo will I ſave thee from his ſubtilty; follow me, ſo ſhalt thou eſcape<g ref="char:punc">▪</g> Thou led me in a fooliſh way to the wiſ<g ref="char:EOLhyphen"/>dom of the enemy, but I found it a way of peace and ſafety, and a path of purity, in which my ſoul delighted. With holi<g ref="char:EOLhyphen"/>neſs didſt thou compaſs me, and beſet me about with ſalvati<g ref="char:EOLhyphen"/>on. Though mine enemies compaſſed me about like a flood, yet was my ſoul in ſafety. Thou diſcovered to me the man of miſchief, and ſaid in ſecret, This is he that ſeeks for thy life. Shall I forget thee my God? Shall I forget thee? Shall not I have thee ever before me? By thy mercy haſt thou gained my heart. Thou knoweſt I love thee; incline thou my heart unto thy fear continually: Keep thou me, for my truſt is only in thee; ſo ſhall I praiſe thy Name for ever, and ſpread thy glory and goodneſs while I have any being; Praiſe the Lord O <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſoul.</p>
+               <closer>
+                  <signed>J.N.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="15" facs="tcp:38044:8"/>
+               <p>Evil eyes do watch me, Oh my God! they come to ſpye out my wayes, who have miſchief in their hearts; and ac<g ref="char:EOLhyphen"/>cording to the miſchief of their own hearts, ſo do they wreſt my wayes, till they have fill'd their hearts with envy, the bit<g ref="char:EOLhyphen"/>terneſs whereof they vent when they ſhoot their Arrows; they have pierced my ſoul withlyes, wherewith they re<g ref="char:EOLhyphen"/>proach thy pure wayes; they are not afraid to ſpeak evil of thy ſpirit. O Lord, wilt thou teach me in innocencie, do thou guide me in thy pure path, ſo ſhal I not be aſhamd when I behold the face of my Enemies: Give me not up to the wills of them that ſeek for my life; reſcue my ſoul, and I ſhall praiſe thee, my Redeemer, and my God. In thee alone I put my truſt: Let not the wicked have dominion over the poor and helpleſs; break the wills of the blood-thirſty man. Thou ſeeſt how many have joined hands againſt me in this day of my trouble, to take my life; yet in thee is my truſt: Plead for me, O my God, declare thou my innocencie With cru<g ref="char:EOLhyphen"/>el jealouſie have they wounded me, when they have condem<g ref="char:EOLhyphen"/>ned thy righteous waies: They have done what they could to cauſe me to diſobey thee; and have ſet themſelves to ſtop my way that I ſhould not follow thee. O my God, thou haſt ſeen it, and haſt redeemed me out of their hands, yet have they caſt out floods of reproach after me; they have tempted me daylie: Hadſt not thou holden me up when they cauſed me to ſtagger, I had fallen for ever; but thy promiſes was a ſtay unto me. O let me never forget thy faithfulneſs; let me mention thy Name to all that want a refuge.</p>
+               <closer>
+                  <signed>J.N.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <l>THe ſpring of Summer doth appear,</l>
+               <l>The bud is freſh and green;</l>
+               <l>The Turtles voice doth ſweetly ſound;</l>
+               <l>Our King in <hi>Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons</hi> ſeen.</l>
+               <l>Shall we not ſound this thing abroad?</l>
+               <l>Shall not we Praiſes ſing?</l>
+               <l>O ſuttle ſelf! thou haſt long withſtood</l>
+               <l>The Praiſes of our King.</l>
+               <l>But ſince <hi>Zion</hi> he hath ſet up</l>
+               <l>By power of his own,</l>
+               <l>To all the Citizens thereof</l>
+               <l>Our God and King is known.</l>
+               <pb facs="tcp:38044:9" rendition="simple:additions"/>
+               <l>VVhat we have ſeen we ſpread abroad,</l>
+               <l>What we both ſeel and know,</l>
+               <l>Which hath the Veſſels fild with Praiſe,</l>
+               <l>Like Floods that overflow.</l>
+               <l>The Heavens above, the Earth below,</l>
+               <l>Doth both in Fraiſes meet;</l>
+               <l>Righteouſneſs runs down, Truth ſprings up,</l>
+               <l>And doth each other greet.</l>
+               <l>Purity hath put forth her voice,</l>
+               <l>And Love doth loudly cry,</l>
+               <l>Innocency a Trumpet ſounds</l>
+               <l>To all the paſſers by.</l>
+               <l>Holineſs from Heaven is ſounded forth</l>
+               <l>Unto our God alone,</l>
+               <l>Peace is proclaim'd; in Purity</l>
+               <l>Our King is on his Throne.</l>
+               <l>The Heathen rage to hear thereof,</l>
+               <l>The Kings together flock,</l>
+               <l>And all the world doth ſet themſelves</l>
+               <l>To overturn this Rock</l>
+               <l>From whence theſe Waters doth deſcend,</l>
+               <l>That makes this fruitful ſound;</l>
+               <l>For his appearance none can bear</l>
+               <l>Who in ſelf and ſin are found.</l>
+               <l>So ſuch with ſand this Flood would ſtop,</l>
+               <l>VVith earth cur wells would fill;</l>
+               <l>And thouſands are together ſet,</l>
+               <l>VVho ſeeks this Seed to ſpill.</l>
+               <l>Yet ſhall we ſit and ſing thy Praiſe</l>
+               <l>VVhileſt we a being have,</l>
+               <l>Though al the world do us withſtand</l>
+               <l>VVhoſe ſouls are in the grave,</l>
+               <l>Oh Holy! Holy! Holy! ſtill</l>
+               <l>Both night and day we cry,</l>
+               <l>Thy Song moſt ſweet, thy Praiſes pure</l>
+               <l>Shall cauſe our Foes to flye.</l>
+               <l>Oh <hi>Zion</hi> ſaſe! how art thou ſet</l>
+               <l>Upon a Hill moſt high?</l>
+               <l>Thy Life not known, thy Joyes are hid</l>
+               <l>From all that paſs thee by.</l>
+               <l>Thy Babes are Plants of Holineſs;</l>
+               <l>Gods Husbandry thou art;</l>
+               <l>Yet all dark Powers of wickedneſs</l>
+               <l>Againſt thee take a part.</l>
+               <l>By day the evil Tydings came;</l>
+               <l>By night the arrows flye;</l>
+               <l>Yet in thy Houſe I ſafety have</l>
+               <l>VVithin thy Temple high.</l>
+               <closer>
+                  <signed>J.N.</signed>
+               </closer>
+            </div>
+            <trailer>The End</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
